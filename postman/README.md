@@ -138,12 +138,3 @@ to diagnose without reproducing anything locally.
   `03 - Leave` may need updating with it.
 
 ---
-
-## Maintainer
-
-Dev Bhatt maintains this project, bringing more than six years of experience
-building data pipelines, controls, and automation. His work focuses on risk
-indicators, analytics, and operational process improvements.
-
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)

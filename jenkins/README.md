@@ -164,12 +164,3 @@ Both scripts are plain POSIX shell with `set -euo pipefail` and can be run by
 hand during an incident - they take the same flags Jenkins passes.
 
 ---
-
-## Maintainer
-
-Dev Bhatt maintains this project, with a focus on reliable automation, controls
-and analytics. He has 6+ years of professional experience building data
-pipelines and reporting solutions.
-
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)

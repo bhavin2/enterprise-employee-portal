@@ -1134,15 +1134,3 @@ Known gaps in the current scope, and the planned follow-ups for each:
 MIT - see [LICENSE](LICENSE).
 
 ---
-
-## Maintainer
-
-Maintained by **Dev Bhatt**, a data analyst with 6+ years of professional
-experience building automated pipelines, controls and dashboards. His work
-includes risk indicator tracking and reconciliation across large-scale data
-operations, with a focus on reliable automation and measurable process
-improvements.
-
-- Email: [devbhattwork27@gmail.com](mailto:devbhattwork27@gmail.com)
-- LinkedIn: [linkedin.com/in/dev-bhatt27](https://linkedin.com/in/dev-bhatt27)
-- GitHub: GitHub profile link not provided.
